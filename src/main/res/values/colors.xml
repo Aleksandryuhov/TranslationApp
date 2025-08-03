@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark theme colors -->
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_surface_variant">#FF2A2A2A</color>
+    <color name="dark_primary">#FF6366F1</color>
+    <color name="dark_primary_variant">#FF4F46E5</color>
+    <color name="dark_secondary">#FF10B981</color>
+    <color name="dark_on_background">#FFFFFFFF</color>
+    <color name="dark_on_surface">#FFFFFFFF</color>
+    <color name="dark_on_primary">#FFFFFFFF</color>
+    <color name="dark_on_secondary">#FFFFFFFF</color>
+    <color name="dark_error">#FFEF4444</color>
+    <color name="dark_outline">#FF404040</color>
+
+    <!-- Text colors -->
+    <color name="text_primary_dark">#FFFFFFFF</color>
+    <color name="text_secondary_dark">#FFB3B3B3</color>
+    <color name="text_hint_dark">#FF666666</color>
+
+    <!-- Card colors -->
+    <color name="card_background_dark">#FF1E1E1E</color>
+    <color name="card_stroke_dark">#FF2A2A2A</color>
+
+    <!-- Button colors -->
+    <color name="button_primary">#FF6366F1</color>
+    <color name="button_primary_pressed">#FF4F46E5</color>
+    <color name="button_secondary">#FF374151</color>
+    <color name="button_secondary_pressed">#FF4B5563</color>
+    <color name="ic_launcher_background">#1976D2</color>
+</resources>

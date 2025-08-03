@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string name="translate">Перевести</string>
+    <string name="enter_text">Введите текст для перевода</string>
+    <string name="translation">Перевод</string>
+    <string name="pronunciation">Произношение</string>
+    <string name="example">Пример</string>
+    <string name="history">История</string>
+    <string name="favorites">Избранное</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="no_history">История пуста</string>
+    <string name="no_favorites">Избранное пусто</string>
+    <string name="swap_languages">Поменять языки</string>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+    <string name="error_translation">Ошибка перевода</string>
+    <string name="no_internet">Нет подключения к интернету</string>
+    <string name="try_again">Попробовать снова</string>
+    <string name="copy">Копировать</string>
+    <string name="copied">Скопировано</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+    <string name="search">Поиск</string>
+    <string name="clear">Очистить</string>
+</resources>
+
